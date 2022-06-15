@@ -32,5 +32,5 @@
 ## Quick overview
 * GitHub stats:  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shuvohishab&show_icons=true&line_height=27&include_all_commits=true&count_private=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shuvohishab&show_icons=true&hide=stars,contribs&line_height=27&include_all_commits=true&count_private=true" alt="My github stats" />
 </a>  
