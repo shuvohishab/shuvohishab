@@ -32,3 +32,4 @@
 ## Quick overview
 * GitHub stats:  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvohishab&hide=stars,contribs&count_private=true&theme=yeblu&show_icons=true&locale=en" alt="shuvohishab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvohishab&count_private=true&show_icons=true&theme=yeblu&locale=en&layout=compact" alt="shuvohishab" /></p>
