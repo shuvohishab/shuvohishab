@@ -32,3 +32,4 @@
 ## Quick overview
 * GitHub stats:  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvohishab&hide=stars,contribs&count_private=true&theme=yeblu&show_icons=true&locale=en" alt="shuvohishab" /></p>
+![shuvohishab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuvohishab&theme=darcula&hide_border=true)
