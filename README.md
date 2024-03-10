@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tisbuet@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1efDl-nEZphM68Xvtj7R4K3m9qYAJDeM5/view?usp=sharing)
+- 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1IcI0-_RC7c0HcXDXbcomttuWmSb2Mfjb/view)
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
