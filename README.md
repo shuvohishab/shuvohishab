@@ -23,7 +23,7 @@
 </p>
 
 
-### What can I help with:question::cyclone:
+### What can I help with?
 <code>git commit -m "All about GitHub!"</code> :grin:
 
 <h3 align="left">Languages and Tools:</h3>
