@@ -31,4 +31,5 @@
 
 ### Quick overview
 
-![shuvohishab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuvohishab&theme=darcula&hide_border=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvohishab&hide=stars,prs&count_private=true&show_icons=true&theme=yeblu&locale=en" alt="shuvohishab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvohishab&count_private=true&show_icons=true&theme=yeblu&locale=en&layout=compact" alt="shuvohishab" /></p>
